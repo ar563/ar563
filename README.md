@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ar563&label=Profile%20views&color=0e75b6" alt="ar563" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ar563&label=Profile%20views&color=0e75b6" alt="ar563" /> <a href="https://ar563.github.io/donate-btc/" target="_blank"> <img src="https://badgen.net/badge/icon/bitcoin?icon=bitcoin&label" alt="bitcoin" /> </a> <a href="http://ln.bitcoinbeach.com/ar563" target="_blank"> <img src="https://badgen.net/badge/icon/bitcoin-lightning?icon=bitcoin-lightning&label" alt="bitcoin-lightning" /> </a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ar563" alt="ar563" /></a> </p>
 
